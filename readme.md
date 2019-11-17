@@ -1,4 +1,4 @@
-# Default node REST estruture with express and JWT
+# Default node REST structure with express and JWT
 
 ### Installing
 
